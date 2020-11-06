@@ -1,7 +1,7 @@
 <!-- Do not translate this -->
 <details>
 <summary>
-<strong> Read this guide in other languages </strong>
+<strong> קרא מדריך זה בשפות אחרות </strong>
 </summary>
     <ul>
         <li><a href="./README.md"> English </a></li>
@@ -35,47 +35,23 @@
 
 אם יש לכם שאלות או תגובות, אנא צרו issue חדש
 
-**תכנים**
+**תוכן עניינים**
 
 - [תרומה לקוד פתוח באופן כללי](#contributing-to-open-source-in-general)
 - [חיפוש ישיר בגיטהאב](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using Version Control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
-- [License](#license)
+- [אקוסיסטם התורמים של מוזילה](#mozillas-contributor-ecosystem)
+- [מאמרים שימושיים לתורמי קוד פתוח חדשים](#useful-articles-for-new-open-source-contributors)
+- [שימוש ב-Version Control](#using-version-control)
+- [ספרים בנושא קוד פתוח](#open-source-books)
+- [יוזמות לתורמת קוד פתוח](#open-source-contribution-initiatives)
+- [רישיון](#license)
 
 </p>
 </div>
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-_________
-
-This is a list of resources for people who are new to contributing to Open Source.
-
-If you find additional resources, please contribute a pull request.
-
-If you have questions or comments, please create an issue.
-
-**Contents**
-
-- [Contributing to Open Source in general](#contributing-to-open-source-in-general)
-- [Direct GitHub searches](#direct-github-searches)
-- [Mozilla's contributor ecosystem](#mozillas-contributor-ecosystem)
-- [Useful articles for new Open Source contributors](#useful-articles-for-new-open-source-contributors)
-- [Using Version Control](#using-version-control)
-- [Open Source books](#open-source-books)
-- [Open Source contribution initiatives](#open-source-contribution-initiatives)
-- [License](#license)
-
-</p>
-</div>
-<div dir="rtl" style="direction:rtl;text-align:right;">
-<p>
-
-## Contributing to Open Source in general
+## תרומה לקוד פתוח באופן כללי
 - [The Definitive Guide to Contributing to Open Source](https://www.freecodecamp.org/news/the-definitive-guide-to-contributing-to-open-source-900d5f9f2282/) by [@DoomHammerNG](https://twitter.com/DoomHammerNG)
 - [An Intro to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) - Tutorials by DigitalOcean to guide you on your way to contribution success here on GitHub.
 - [Issuehub.io](http://issuehub.io/) - a tool for searching GitHub issues by label and language.
@@ -103,7 +79,7 @@ Lets Git started in the world of opensource, starting in the opensource playgrou
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## Direct GitHub searches
+## חיפוש ישיר בגיטהאב
 Search links that point directly to suitable issues to contribute to on GitHub.
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
@@ -118,7 +94,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## Mozilla's contributor ecosystem
+## אקוסיסטם התורמים של מוזילה
 - [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
 - [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
 - [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
@@ -131,7 +107,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## Useful articles for new Open Source contributors
+## מאמרים שימושיים לתורמי קוד פתוח חדשים
 - [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
 - [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
 - [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
@@ -155,7 +131,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## Using Version Control
+## שימוש ב-Version Control
 - [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
 - [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
 - [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
@@ -179,7 +155,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## Open Source books
+## ספרים בנושא קוד פתוח
 - [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
 - [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
 - [Software Release Practice HOWTO](https://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
@@ -192,7 +168,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## Open Source contribution initiatives
+## יוזמות לתורמת קוד פתוח
 - [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues
 - [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
 - [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
@@ -204,7 +180,7 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## License
+## רישיון
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 </p>
