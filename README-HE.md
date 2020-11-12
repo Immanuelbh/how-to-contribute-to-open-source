@@ -43,7 +43,7 @@
 - [מאמרים שימושיים לתורמי קוד פתוח חדשים](#useful-articles-for-new-open-source-contributors)
 - [שימוש ב-Version Control](#using-version-control)
 - [ספרים בנושא קוד פתוח](#open-source-books)
-- [יוזמות לתורמת קוד פתוח](#open-source-contribution-initiatives)
+- [יוזמות לתרומת קוד פתוח](#open-source-contribution-initiatives)
 - [רישיון](#license)
 
 </p>
@@ -79,8 +79,7 @@
 <p>
 
 ## חיפוש ישיר בגיטהאב
------------------
-Search links that point directly to suitable issues to contribute to on GitHub.
+העזרו בלינקים כדי למצוא issues מתאימים לתרומה בגיטהאב.
 - [is:issue is:open label:beginner](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abeginner)
 - [is:issue is:open label:easy](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy)
 - [is:issue is:open label:first-timers-only](https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
@@ -95,12 +94,12 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <p>
 
 ## אקוסיסטם התורמים של מוזילה
-- [Good First Bugs](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - bugs that developers have identified as a good introduction to the project.
-- [Mentored Bugs](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - bugs that have a mentor assigned who will be there on IRC to help you when you get stuck while working on a fix.
-- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - a site dedicated to finding bugs on Bugzilla.
-- [Firefox DevTools](http://firefox-dev.tools/) - a site dedicated to bugs filed for the developer tools in the Firefox browser.
-- [What Can I Do For Mozilla](https://whatcanidoformozilla.org/) - figure out what you can work on by answering a bunch of questions about your skill set and interests.
-- [Start Mozilla](https://twitter.com/StartMozilla) - a Twitter account that tweets about issues fit for contributors new to the Mozilla ecosystem.
+- [באגים ראשונים טובים](https://bugzil.la/sw:%22[good%20first%20bug]%22&limit=0) - באגים שמפתחים מצאו שיכולים להתאים בכניסה ראשונית לפרויקט.
+- [באגים עם מנטור](https://bugzilla.mozilla.org/buglist.cgi?quicksearch=mentor%3A%40) - באגים שיש להם מנטורים המשוייכים עליהם, ניתן לפנות אליהם דרך IRC במקרה שנתקעתם במהלך תיקון הבאג.
+- [Bugs Ahoy](https://www.joshmatthews.net/bugsahoy/) - אתר המוקדש כולו למציאת באגים ב-Bugzilla.
+- [Firefox DevTools](http://firefox-dev.tools/) - אתר המוקדש לבאגים של כלי המתכנת (developer tools) של הדפדפן פיירפוקס
+- [מה אני יכול לעשות למען מוזילה](https://whatcanidoformozilla.org/) - מצאו כיצד תוכלו לתרום על ידי מענה על מגוון שאלות על תחומי והעניין והידע שלכם.
+- [Start Mozilla](https://twitter.com/StartMozilla) - חשבון טוויטר המצייץ על issues המתאימים לתורמים חדשים לאקוסיסטם של מוזילה.
 
 </p>
 </div>
@@ -108,23 +107,23 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <p>
 
 ## מאמרים שימושיים לתורמי קוד פתוח חדשים
-- [How to choose (and contribute to) your first Open Source project](https://github.com/collections/choosing-projects) by [@GitHub](https://github.com/github)
-- [How to find your first Open Source bug to fix](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) by [@Shubheksha](https://github.com/Shubheksha)
-- [First Timers Only](https://kentcdodds.com/blog/first-timers-only/) by [@kentcdodds](https://github.com/kentcdodds)
-- [Bring Kindness Back to Open Source](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) by [@shanselman](https://github.com/shanselman)
-- [Getting into Open Source for the First Time](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) by [@mcdonnelldean](https://github.com/mcdonnelldean)
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) by [@GitHub](https://github.com/github)
-- [How to Find a Bug in Your Code](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) by [@dougbradbury](https://twitter.com/dougbradbury)
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) by [@GitHub](https://github.com/github)
-- [First mission: Contributors page](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) by [@forCrowd](https://github.com/forCrowd)
-- [How to make your first Open Source contribution in just 5 minutes](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) by [@roshanjossey](https://github.com/Roshanjossey/)
-- [Hacktoberfest 2019: How you can get your free shirt — even if you’re new to coding](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
-- [A Bitter Guide To Open Source](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) by [@ken_wheeler](https://medium.com/@ken_wheeler)
-- [A junior developer’s step-by-step guide to contributing to Open Source for the first time](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) by [@LetaKeane](https://hackernoon.com/u/letakeane)
-- [Learn Git and GitHub Step By Step (on Windows)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) by [@ows-ali](https://medium.com/@ows_ali)
-- [Why Open Source and How?](https://careerkarma.com/blog/open-source-projects-for-beginners/) by [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
-- [How to get started with Open Source - By Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
-- [What open-source should I contribute to](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) by Kent C. Dodds
+- [כיצד לבחור (ולתרום) לפרויקט הקוד הפתוח הראשון שלך](https://github.com/collections/choosing-projects) ע״י [@GitHub](https://github.com/github)
+- [כיצד למצוא את הבאג הראשון שלך לתיקון בקוד פתוח](https://www.freecodecamp.org/news/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba/) ע״י [@Shubheksha](https://github.com/Shubheksha)
+- [למתחילים בלבד](https://kentcdodds.com/blog/first-timers-only/) ע״י [@kentcdodds](https://github.com/kentcdodds)
+- [החזירו טוב לב חזרה לקוד פתוח](https://web.archive.org/web/20201009150545/https://www.hanselman.com/blog/bring-kindness-back-to-open-source) ע״י [@shanselman](https://github.com/shanselman)
+- [נכנסים לקוד פתוח בפעם הראשונה](https://www.nearform.com/blog/getting-into-open-source-for-the-first-time/) ע״י [@mcdonnelldean](https://github.com/mcdonnelldean)
+- [כיצד לתרום לקוד פתוח](https://opensource.guide/how-to-contribute/) ע״י [@GitHub](https://github.com/github)
+- [כיצד למצוא באג בקוד שלכם](https://8thlight.com/blog/doug-bradbury/2016/06/29/how-to-find-bug-in-your-code.html) ע״י [@dougbradbury](https://twitter.com/dougbradbury)
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) ע״י [@GitHub](https://github.com/github)
+- [משימה ראשונה: עמוד התורמים](https://medium.com/@forCrowd/first-mission-contributors-page-df24e6e70705#.2v2g0no29) ע״י [@forCrowd](https://github.com/forCrowd)
+- [כיצד לתרום בפעם הראשונה לקוד פתוח ב-5 דקות](https://www.freecodecamp.org/news/how-to-make-your-first-open-source-contribution-in-just-5-minutes-aaad1fc59c9a/) ע״י [@roshanjossey](https://github.com/Roshanjossey/)
+- [Hacktoberfest 2019: כיצד לקבל חולצה חינם אפילו אם אתם מתכנתים חדשים](https://www.freecodecamp.org/news/hacktoberfest-2018-how-you-can-get-your-free-shirt-even-if-youre-new-to-coding-96080dd0b01b/) by [@quincylarson](https://www.freecodecamp.org/news/author/quincylarson/)
+- [מדריך מר לקוד פתוח](https://medium.com/codezillas/a-bitter-guide-to-open-source-a8e3b6a3c1c4) ע״י [@ken_wheeler](https://medium.com/@ken_wheeler)
+- [מדריך צעד אחר צעד של מתכנת ג׳וניור - כיצד לתרום לקוד פתוח בפעם הראשונה](https://hackernoon.com/contributing-to-open-source-the-sharks-are-photoshopped-47e22db1ab86) ע״י [@LetaKeane](https://hackernoon.com/u/letakeane)
+- [למדו גיט וגיטהאב צעד אחר צעד (על ווינדוס)](https://medium.com/illumination/path-to-learning-git-and-github-be93518e06dc) ע״י [@ows-ali](https://medium.com/@ows_ali)
+- [למה קוד פתוח ואיך?](https://careerkarma.com/blog/open-source-projects-for-beginners/) ע״י [@james-gallagher](https://careerkarma.com/blog/author/jamesgallagher/)
+- [כיצד להתחיל עם קוד פתוח ע״י Sayan Chowdhury](https://www.hackerearth.com/getstarted-opensource/)
+- [לאיזה קוד פתוח כדי לתרום](https://kentcdodds.com/blog/what-open-source-project-should-i-contribute-to/) ע״י Kent C. Dodds
 
 </p>
 </div>
@@ -132,23 +131,23 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <p>
 
 ## שימוש ב-Version Control
-- [Think Like (a) Git](http://think-like-a-git.net/) - Git introduction for "advanced beginners," but are still struggling, in order to give you a simple strategy to safely experiment with git.
-- [Try Git](https://try.github.io/) - Learn Git in 15 minutes from within your browser for free.
-- [Everyday Git](https://git-scm.com/docs/giteveryday) - A useful minimum set of commands for Everyday Git.
-- [Oh shit, git!](https://ohshitgit.com/) - how to get out of common `git` mistakes described in plain English; also see [Dangit, git!](https://dangitgit.com/) for the page without swears.
-- [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials) - various tutorials on using `git`.
+- [Think Like (a) Git](http://think-like-a-git.net/) - מדריך גיט ל״מתחילים מתקדמים״ מתקשים, המחפשים אסטרטגיה פשוטה להתנסות עם גיט.
+- [Try Git](https://try.github.io/) - למדו גיט ב-15 דקות ישירות מהדפדפן בחינם.
+- [Everyday Git](https://git-scm.com/docs/giteveryday) - סט מינימלי שימושי של פקודות לשימוש גיט יומיומי
+- [Oh shit, git!](https://ohshitgit.com/) - כיצד לצאת מטעויות גיט נפוצות, כתוב באנגלית; ראו גם [Dangit, git!](https://dangitgit.com/) עבור עמוד ללא קללות.
+- [מדריכי גיט של Atlassian](https://www.atlassian.com/git/tutorials) - מגוון מדריכים על השימוש בגיט.
 - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) (PDF)
-- [freeCodeCamp's Wiki on Git Resources](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
-- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - GitHub talk on how to make a pull request.
-- [GitHub Learning Resources](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - Git and GitHub learning resources.
-- [Pro Git](https://git-scm.com/book/en/v2) - The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress.
-- [Git-it](https://github.com/jlord/git-it-electron) - Step by step Git tutorial desktop app.
-- [Flight Rules for Git](https://github.com/k88hudson/git-flight-rules) - A guide about what to do when things go wrong.
-- [Git Guide for Beginners in Spanish](https://platzi.github.io/git-slides/#/) - A complete guide of slides about git and GitHub explained in Spanish. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
-- [Git Kraken](https://www.gitkraken.com/git-client) - Visual, cross-platform, and interactive `git` desktop application for version control.
-- [Git Tips](https://github.com/git-tips/tips) - Collection of most commonly used git tips and tricks.
-- [Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) - Commit Often, Perfect Later, Publish Once: Git Best Practices.
-- [Git Interactive Tutorial](https://learngitbranching.js.org/) - Learn Git in the most visual and interactive way.
+- [הויקיפדיה של freeCodeCamp על מקורות גיט](https://forum.freecodecamp.org/t/wiki-git-resources/13136)
+- [GitHub Flow](https://www.youtube.com/watch?v=juLIxo42A_s) (42:06) - שיחת גיטהאב על כיצד ליצור pull request.
+- [מקורות הלימוד של גיטהאב](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/git-and-github-learning-resources) - מקורות למידה עבור גיט וגיטהאב.
+- [Pro Git](https://git-scm.com/book/en/v2) - הספר Pro Git בשלמותו, נכתב על ידי Scott Chacon ו-Ben Straub ופורסם על ידי Apress.
+- [Git-it](https://github.com/jlord/git-it-electron) - מדריך גיט לאפליקצית הדסקטופ.
+- [Flight Rules לגיט](https://github.com/k88hudson/git-flight-rules) - מדריך על מה לעשות כשדברים משתבשים.
+- [מדריך גיט בספרדית למתחילים](https://platzi.github.io/git-slides/#/) - מדריך שלם של שקופיות על גיט וגיטהאב בספרדית. Una guía completa de diapositivas sobre git y GitHub explicadas en Español.
+- [Git Kraken](https://www.gitkraken.com/git-client) - אפליקצית דסקטופ לגיט, ויז׳ואלית, אינטרקטיבית ו-cross-platform.
+- [טיפים לגיט](https://github.com/git-tips/tips) - אוסף טיפים וטריקים נפוצים בגיט.
+- [שיטות עבודה מומלצות בגיט](https://sethrobertson.github.io/GitBestPractices/) - בצעו commit לעיתים קרובות, שפרו בהמשך, פרסמו פעם אחת: שיטות העבודה המומלצות בגיט.
+- [מדריך גיט אינטרקטיבי](https://learngitbranching.js.org/) - למדו גיט בדרך הויז׳יאלית והאינטרקטיבית ביותר.
 
 </p>
 </div>
@@ -156,24 +155,24 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <p>
 
 ## ספרים בנושא קוד פתוח
-- [Producing Open Source Software](https://producingoss.com/) - Producing Open Source Software is a book about the human side of Open Source development. It describes how successful projects operate, the expectations of users and developers, and the culture of free software.
-- [Open Source Book Series](https://opensource.com/resources/ebooks) - Learn more about Open Source and the growing Open Source movement with a comprehensive list of free eBooks from https://opensource.com.
-- [Software Release Practice HOWTO](https://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - This HOWTO describes good release practices for Linux and other Open-Source projects. By following these practices, you will make it as easy as possible for users to build your code and use it, and for other developers to understand your code and cooperate with you to improve it.
-- [Open Sources 2.0 : The Continuing Evolution](https://archive.org/details/opensources2.000diborich) (2005) - Open Sources 2.0 is a collection of insightful and thought-provoking essays from today's technology leaders that continues painting the evolutionary picture that developed in the 1999 book, Open Sources: Voices from the Revolution.
-- [The Architecture of Open Source Applications](http://www.aosabook.org/en/git.html) - Show how various aspects of Git work under the covers to enable distributed workflows, and how it differs from other version control systems (VCSs).
-- [Open Sources: Voices from the Open Source Revolution](https://www.oreilly.com/openbook/opensources/book/) - Essays from open-source pioneers such as Linus Torvalds (Linux), Larry Wall (Perl), and Richard Stallman (GNU).
+- [יצירת תוכנה בקוד פתוח](https://producingoss.com/) - זהו ספר על הצד האנושי של פיתוח קוד פתוח. הספר מתאר כיצד פרויקטים מוצלחים עובדים, ציפיות האנשים והמפתחים ותרבות תכונה חינמית.
+- [סדרת ספרי קוד פתוח](https://opensource.com/resources/ebooks) - למדו עוד על קוד פתוח ועל תנועת הקוד הפתוח בעזרת רשימה מקיפה של ספרים אלקטרונים מ-https://opensource.com.
+- [Software Release Practice HOWTO](https://en.tldp.org/HOWTO/Software-Release-Practice-HOWTO/) - מדריך זה מתאר מהם הכללים לשחרור נכון עבור לינוקס ופרויקטי קוד פתוח אחרים. על ידי שמירה על כללים אלו, תקלו על משמתמשים לבנות את הקוד שלכם ולהשתמש בו. כמו כן, מפתחים אחרים יוכלו להבין את הקוד שלכם, לעבוד איתו ולשפר אותו. 
+- [קוד פתוח 2.0: אבולוציה מתמשכת](https://archive.org/details/opensources2.000diborich) (2005) - קוד פתוח 2.0 הינו אוסף מאמרים מעמיקים ומעוררי מחשבה של מנהיגי הטכנולוגיה של היום הממשיכים לצבוע את תמונת האבוצולציה שפותחה בספר מ-1999, קוד פתוח: קולות מן המהפכה.  
+- [הארכיטקטורה של אפליקציות קוד פתוח](http://www.aosabook.org/en/git.html) - כיצד מגוון היבטים של גיט עובדים מתחת למנוע כדי לאפשר workflows מבוזרים וכיצד אלו שונים ממערכות version controls אחרים (VCSs).
+- [קודים פתוחים: קולות ממהפכת הקוד הפתוח](https://www.oreilly.com/openbook/opensources/book/) - מאמרים מחלוצי קוד פתוח כמו Linus Torvalds (לינוקס), Larry Wall (פרל) ו-Richard Stallman (GNU).
 
 </p>
 </div>
 <div dir="rtl" style="direction:rtl;text-align:right;">
 <p>
 
-## יוזמות לתורמת קוד פתוח
-- [Up For Grabs](https://up-for-grabs.net/) - Contains projects with beginner-friendly issues
-- [First Timers Only](https://www.firsttimersonly.com/) - A list of bugs that are labelled "first-timers-only".
-- [First Contributions](https://firstcontributions.github.io/) - Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. [Here](https://github.com/firstcontributions/first-contributions) is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
-- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - A program to encourage Open Source contributions. Earn gifts like t-shirts and stickers by making at least 4 pull requests in the month of October.
-- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests is a project to promote Open Source collaboration during the month of December.
+## יוזמות לתרומת קוד פתוח
+- [Up For Grabs](https://up-for-grabs.net/) - מכיל פרויקטים עם issues המתאימים למתחילים.
+- [First Timers Only](https://www.firsttimersonly.com/) - רשימה של באגים המתוייגים כ-״first-timers-only".
+- [First Contributions](https://firstcontributions.github.io/) - בצעו את התרומה הראשונה שלכם לקוד פתוח ב-5 דקות. כלי ומדריך שיעזור למתחילים לתרום. תוכלו למצוא את קוד המקור של האתר [כאן](https://github.com/firstcontributions/first-contributions), נצלו את ההזדמנות לתרום ל-repository עצמו.
+- [Hacktoberfest](https://hacktoberfest.digitalocean.com/) - תוכנית לעידוד תרומה לקוד פתוח. זכו במתנות כגון חולצות ומדבקות על ידי פתיחת לפחות 4 pull requests במהלך חודש אוקטובר.
+- [24 Pull Requests](https://24pullrequests.com) - 24 Pull Requests הינו פרויקט לעידוד שיתוף פעולה בקוד פתוח במהלך חודש אוקטובר.
 
 </p>
 </div>
@@ -181,7 +180,9 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <p>
 
 ## רישיון
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />פרוייקט זה נכתב תחת רישיון 
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 </p>
 </div>
